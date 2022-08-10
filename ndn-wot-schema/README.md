@@ -1,0 +1,1 @@
+JSON Schema for validating TD instances against the TD model in the Named Data Networking context. TD instances can be with or without terms that have default values
